@@ -25,6 +25,4 @@ Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap | Javascript | React.js | MongoD
 - 💬 Ask me about Ask me about anything relevant to my skill's.
 - 📫 How to reach me: How to reach me: Send message through my website contact form.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/satyadeepraj) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/satyadeep-raj-bb381b226) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/satyadeepraj) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/satyadeep-raj-bb381b226) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackblitz.svg' alt='StackBlitz' height='40'>](https://stackblitz.com/@satyadeepraj) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://satyadeep-portfolio.vercel.app/)
