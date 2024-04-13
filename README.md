@@ -4,8 +4,8 @@
 
 ![I am a Frontend Developer](https://res.cloudinary.com/dzkpb9csm/image/upload/v1713004769/readme/Screenshot_2024-04-13_160150_bl5lpu.png)
 
-Hello!
-MySelf Satyadeep Raj, I'm a Full Stack Developer currently employed at AntiHak, a leading cybersecurity firm dedicated to safeguarding digital assets against cyber threats.
+#### Hello!
+#### MySelf Satyadeep Raj, I'm a Full Stack Developer currently employed at AntiHak, a leading cybersecurity firm dedicated to safeguarding digital assets against cyber threats.
 
 💻 About Me:
 I specialize in full stack development, which means I have expertise in both frontend and backend technologies. From crafting intuitive user interfaces with HTML, CSS, and JavaScript to building robust server-side applications with frameworks like Node.js and databases like MongoDB, I thrive on creating comprehensive solutions that address diverse user needs.
